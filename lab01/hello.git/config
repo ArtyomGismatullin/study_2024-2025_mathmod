@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/Dream/work/study/2024-2025/Математическое моделирование/study_2024-2025_mathmod/lab01/hello
